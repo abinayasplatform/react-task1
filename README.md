@@ -6,4 +6,5 @@ Task : Day22
 
 React Price Card
 
-* 
+* A price card is created using React.js.
+* The code can be used in dynamic manner.
